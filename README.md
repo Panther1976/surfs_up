@@ -1,6 +1,8 @@
 # surfs_up
 
-## Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis: 
+
+The purpose of this analysis is to gather and report weather statistics for June and December, the warmest and coolest parts of the year. This information will allow the client to determine if a surf and ice cream shop can be sustainable year-round. 
 
 ## Results: 
 
